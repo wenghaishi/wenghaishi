@@ -8,16 +8,18 @@ I am a fullstack web developer with a keen interest in blockchain and AI.
 
 ### Frameworks & libraries
 
-<img width="550" alt="Screenshot 2023-04-19 at 8 22 02 PM" src="https://user-images.githubusercontent.com/74546450/233073423-ecc64e1b-0161-49d1-8bca-791adf282a76.png">
+<img width="640" alt="Screenshot 2023-04-19 at 8 38 13 PM" src="https://user-images.githubusercontent.com/74546450/233077080-f1ce3c00-51fd-43da-a4f0-805c033f6a11.png">
+
 
 ### Tools
 
-<img width="340" alt="Screenshot 2023-04-19 at 8 31 29 PM" src="https://user-images.githubusercontent.com/74546450/233075606-e7d86b48-2b79-46ac-8b70-0bc8ef0a711c.png">
+<img width="360" alt="Screenshot 2023-04-19 at 8 31 29 PM" src="https://user-images.githubusercontent.com/74546450/233075606-e7d86b48-2b79-46ac-8b70-0bc8ef0a711c.png">
 
 <!--
 **wenghaishi/wenghaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="882" alt="Screenshot 2023-04-19 at 8 36 58 PM" src="https://user-images.githubusercontent.com/74546450/233076786-e90d2504-9803-407b-8a4d-b7a205fea1b7.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
