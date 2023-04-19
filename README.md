@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a fullstack web developer.
+
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-3A3E47?style=for-the-badge&logo=rubyonrails&logoColor=CC0000)](#)&nbsp;
 
 <!--
 **wenghaishi/wenghaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
