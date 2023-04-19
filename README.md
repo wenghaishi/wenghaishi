@@ -1,9 +1,6 @@
 ### Hi there 👋
-I am a fullstack web developer. My 
+I am a fullstack web developer. 
 
-Technologies:
-
-[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-3A3E47?style=for-the-badge&logo=rubyonrails&logoColor=CC0000)](#)&nbsp;
 <picture>
   <source
     srcset="
